@@ -1,0 +1,1 @@
+Este projeto é um sistema bem básico de um sistema de cadastro em Go que realiza operações CRUD e está integrado a um banco de dados MySQL. Aqui eu uso o pacote database/sql para gerenciar o banco de dados e o net/http para expor as rotas de API.
